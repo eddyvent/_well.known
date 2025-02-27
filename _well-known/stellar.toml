@@ -1,0 +1,15 @@
+VERSION = "2.0"
+
+[DOCUMENTATION]
+ORG_NAME = "AeMILIA"
+ORG_DBA = "eMy"
+ORG_URL = "https://eddyvent.github.io"
+ORG_LOGO = "https://i.postimg.cc/qpgSBVZZ/20250225-173858.jpg"
+ORG_DESCRIPTION = "Breve descrizione del tuo asset."
+ORG_EMAIL = "tuo-email@example.com"
+
+[[CURRENCIES]]
+code = "TOKEN"
+issuer = "GDM6KQ6SEQNAU6VR3HENF2RS5BWUWKLLFJBSPFBGH2OUN65YGRQY4HUE"
+status = "live"
+display_decimals = 7
